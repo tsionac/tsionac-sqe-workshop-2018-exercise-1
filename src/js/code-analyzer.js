@@ -146,8 +146,6 @@ const typeparse = {
     'WhileStatement': initializeWhile,
     'ReturnStatement': initializeRet,
     'ForStatement': initializeFor
-
-
 };
 
 
